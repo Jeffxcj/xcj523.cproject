@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="babyxc"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/Clion/xcj/babyxc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="babyxc.elf">
+				<Option output="G:/Clion/xcj/babyxc/cmake-build-debug/babyxc.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/Clion/xcj/babyxc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F429xx"/>
+					<Add directory="G:/Clion/xcj/babyxc/Core/Inc"/>
+					<Add directory="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc"/>
+					<Add directory="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="G:/Clion/xcj/babyxc/Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
+					<Add directory="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1/arm-none-eabi"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1/backward"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/include"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/include-fixed"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 babyxc.elf"/>
+					<CompileFile command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="babyxc.elf/fast">
+				<Option output="G:/Clion/xcj/babyxc/cmake-build-debug/babyxc.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/Clion/xcj/babyxc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F429xx"/>
+					<Add directory="G:/Clion/xcj/babyxc/Core/Inc"/>
+					<Add directory="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc"/>
+					<Add directory="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="G:/Clion/xcj/babyxc/Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
+					<Add directory="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1/arm-none-eabi"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1/backward"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/include"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/include-fixed"/>
+					<Add directory="f:\10 2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 babyxc.elf/fast"/>
+					<CompileFile command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/Clion/xcj/babyxc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/Clion/xcj/babyxc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/SysGCC/bin/mingw32-make.exe -f &quot;G:/Clion/xcj/babyxc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Inc/dma2d.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Inc/fmc.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Inc/gpio.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Inc/i2c.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Inc/ltdc.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Inc/main.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Inc/stm32f4xx_hal_conf.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Inc/stm32f4xx_it.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Inc/usart.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/dma2d.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/fmc.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/gpio.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/i2c.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/ltdc.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/main.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/stm32f4xx_hal_msp.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/stm32f4xx_it.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/syscalls.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/system_stm32f4xx.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Core/Src/usart.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f429xx.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/cmsis_armcc.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/cmsis_armclang.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/cmsis_compiler.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/cmsis_gcc.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/cmsis_iccarm.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/cmsis_version.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_armv8mbl.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_armv8mml.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_cm0.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_cm0plus.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_cm1.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_cm23.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_cm3.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_cm33.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_cm4.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_cm7.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_sc000.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/core_sc300.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/mpu_armv7.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/mpu_armv8.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/CMSIS/Include/tz_context.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma2d.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dsi.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c_ex.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_ltdc.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_ltdc_ex.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sdram.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_fmc.h">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/STM32F429IGTx_FLASH.ld">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/startup/startup_stm32f429xx.s">
+			<Option target="babyxc.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/xcj/babyxc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

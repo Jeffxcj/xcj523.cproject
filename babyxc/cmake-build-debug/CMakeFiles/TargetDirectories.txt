@@ -1,0 +1,3 @@
+G:/Clion/xcj/babyxc/cmake-build-debug/CMakeFiles/babyxc.elf.dir
+G:/Clion/xcj/babyxc/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Clion/xcj/babyxc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

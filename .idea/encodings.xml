@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/babyxc/Core/Inc/asm88xx.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/babyxc/Core/Src/asm88xx.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/babyxc/Core/Src/i2c.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/babyxc/Core/Src/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/babyxc/Core/Src/mlx90614.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/babyxc/cmake-build-debug/babyxc.elf" charset="UTF-8" />
+  </component>
+</project>

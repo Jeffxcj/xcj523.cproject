@@ -1,0 +1,2169 @@
+Archive member included to satisfy reference by file (symbol)
+
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj (__aeabi_uldivmod)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+                              CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj (__errno)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+                              f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .text.HAL_DMA2D_MspDeInit
+                0x00000000       0x28 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .text.HAL_FMC_MspDeInit
+                0x00000000       0x7c CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .text.HAL_SDRAM_MspDeInit
+                0x00000000        0x8 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .bss.FMC_DeInitialized
+                0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .text.HAL_I2C_MspDeInit
+                0x00000000       0x70 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .text.HAL_LTDC_MspDeInit
+                0x00000000       0x9c CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._sbrk    0x00000000       0x3c CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .bss.heap_end.0
+                0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000      0x835 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x1da CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x00000000      0x436 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xb0 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0xa0 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x426 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x447 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x1a8 CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xa0 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000       0x84 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x2c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_Delay
+                0x00000000       0x28 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000        0xe CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000        0xe CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_EnableCompensationCell
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DisableCompensationCell
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_EnableMemorySwappingBank
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DisableMemorySwappingBank
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Disable
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Enable
+                0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x60 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x00000000       0x2c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_CalcBaseAndBitshift
+                0x00000000       0x40 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_CheckFifoParam
+                0x00000000       0x8e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x00000000       0xcc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0x64 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x48 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x6a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x94 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x128 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x1dc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x5e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x6e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .rodata.flagBitshiftOffset.0
+                0x00000000        0x8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.DMA2D_SetConfig
+                0x00000000       0x92 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_MspInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_MspDeInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_Start
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_Start_IT
+                0x00000000       0x42 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_BlendingStart
+                0x00000000       0x42 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_BlendingStart_IT
+                0x00000000       0x4c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_Abort
+                0x00000000       0x5a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_Suspend
+                0x00000000       0x5e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_Resume
+                0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_EnableCLUT
+                0x00000000       0x36 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_CLUTStartLoad
+                0x00000000       0x7a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_CLUTStartLoad_IT
+                0x00000000       0x8e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_CLUTLoad
+                0x00000000       0x86 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_CLUTLoad_IT
+                0x00000000       0x9a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_CLUTLoading_Abort
+                0x00000000       0x64 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_DeInit
+                0x00000000       0x90 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_CLUTLoading_Suspend
+                0x00000000       0x98 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_CLUTLoading_Resume
+                0x00000000       0x42 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_PollForTransfer
+                0x00000000      0x13e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_ConfigCLUT
+                0x00000000       0x7c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_ProgramLineEvent
+                0x00000000       0x3e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_EnableDeadTime
+                0x00000000       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_DisableDeadTime
+                0x00000000       0x30 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_ConfigDeadTime
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_GetState
+                0x00000000        0x6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text.HAL_DMA2D_GetError
+                0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.DMA_MultiBufferSetConfig
+                0x00000000       0x22 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MultiBufferStart
+                0x00000000       0x5e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MultiBufferStart_IT
+                0x00000000      0xf00 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ChangeMemory
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_info    0x00000000      0x5ac CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_abbrev  0x00000000      0x1b6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_loc     0x00000000      0x422 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_aranges
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_ranges  0x00000000       0x28 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_line    0x00000000      0x9dd CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_str     0x00000000      0x563 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_frame   0x00000000       0x68 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+ .debug_info    0x00000000       0x6b CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xd8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xac CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0x88 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000        0xe CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x14 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x14 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x5c4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x1e0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_loc     0x00000000      0x452 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x5dc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x3fb CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xd4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_DoubleWord
+                0x00000000       0x2c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_Word
+                0x00000000       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_Byte
+                0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0xa8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x68 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000       0xf8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x30 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x14 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x28 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x14 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x60 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0x7c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x75a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x26c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_loc     0x00000000      0x3cc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0xa0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x90 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x767 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x564 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x168 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x4c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_BOR_LevelConfig
+                0x00000000       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetBOR
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000       0x84 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000       0x88 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x2c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnablePCROP
+                0x00000000       0x58 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisablePCROP
+                0x00000000       0x58 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_BootConfig
+                0x00000000       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0x84 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x22 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_AdvOBProgram
+                0x00000000       0x3e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_AdvOBGetConfig
+                0x00000000       0x14 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OB_SelectPCROP
+                0x00000000       0x14 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OB_DeSelectPCROP
+                0x00000000       0x14 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OB_GetBank2WRP
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_Erase_Sector
+                0x00000000       0x5c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x6c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_FlushCaches
+                0x00000000       0x60 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0x98 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0xb66 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x273 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_loc     0x00000000      0x881 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0xd8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0xc8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0xa1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x6eb CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x214 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_info    0x00000000       0x6b CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x00000000      0x1d4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x14c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xe CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_WritePin
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x12 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_IsAcknowledgeFailed
+                0x00000000       0x32 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_WaitOnFlagUntilTimeout
+                0x00000000       0x7c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_WaitOnMasterAddressFlagUntilTimeout
+                0x00000000       0xaa CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_MasterRequestWrite
+                0x00000000       0xb4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_MasterRequestRead
+                0x00000000      0x120 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_WaitOnTXEFlagUntilTimeout
+                0x00000000       0x54 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_RequestMemoryWrite
+                0x00000000       0xd8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_RequestMemoryRead
+                0x00000000      0x154 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_WaitOnBTFFlagUntilTimeout
+                0x00000000       0x54 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_WaitOnRXNEFlagUntilTimeout
+                0x00000000       0x6a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_WaitOnSTOPFlagUntilTimeout
+                0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_MspInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_MspDeInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_DeInit
+                0x00000000       0x32 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit
+                0x00000000      0x178 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive
+                0x00000000      0x2e8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit
+                0x00000000      0x1a4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive
+                0x00000000      0x180 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit_IT
+                0x00000000       0xd8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive_IT
+                0x00000000       0xe4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit_IT
+                0x00000000       0x8c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive_IT
+                0x00000000       0x8c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit_DMA
+                0x00000000      0x16c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive_DMA
+                0x00000000      0x16c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit_DMA
+                0x00000000       0xe8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive_DMA
+                0x00000000       0xe8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Write
+                0x00000000      0x164 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read
+                0x00000000      0x2e4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Write_IT
+                0x00000000       0xe4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read_IT
+                0x00000000       0xf4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Write_DMA
+                0x00000000      0x1b0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read_DMA
+                0x00000000      0x1f4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_IsDeviceReady
+                0x00000000      0x194 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Transmit_IT
+                0x00000000      0x100 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Transmit_DMA
+                0x00000000      0x1ac CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Receive_IT
+                0x00000000      0x150 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Receive_DMA
+                0x00000000      0x21c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Transmit_IT
+                0x00000000       0x90 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Transmit_DMA
+                0x00000000      0x17c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Receive_IT
+                0x00000000       0x90 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Receive_DMA
+                0x00000000      0x17c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_EnableListen_IT
+                0x00000000       0x3e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_DisableListen_IT
+                0x00000000       0x42 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_DMAError
+                0x00000000       0x46 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_DMAXferCplt
+                0x00000000      0x122 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Abort_IT
+                0x00000000       0x64 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetState
+                0x00000000        0x6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetMode
+                0x00000000        0x6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetError
+                0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_MspInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_MspDeInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_DeInit
+                0x00000000       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_ConfigColorKeying
+                0x00000000       0x4a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_ConfigCLUT
+                0x00000000       0x84 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_EnableColorKeying
+                0x00000000       0x3c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_DisableColorKeying
+                0x00000000       0x3c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_EnableCLUT
+                0x00000000       0x3c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_DisableCLUT
+                0x00000000       0x3c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_EnableDither
+                0x00000000       0x34 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_DisableDither
+                0x00000000       0x34 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetWindowSize
+                0x00000000       0x56 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetWindowPosition
+                0x00000000       0x56 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetPixelFormat
+                0x00000000       0x42 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetAlpha
+                0x00000000       0x42 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetAddress
+                0x00000000       0x42 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetPitch
+                0x00000000       0xa0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_ProgramLineEvent
+                0x00000000       0x44 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_Reload
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_ConfigLayer_NoReload
+                0x00000000       0x64 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetWindowSize_NoReload
+                0x00000000       0x52 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetWindowPosition_NoReload
+                0x00000000       0x52 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetPixelFormat_NoReload
+                0x00000000       0x3e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetAlpha_NoReload
+                0x00000000       0x3e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetAddress_NoReload
+                0x00000000       0x3e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_SetPitch_NoReload
+                0x00000000       0x88 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_ConfigColorKeying_NoReload
+                0x00000000       0x48 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_EnableColorKeying_NoReload
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_DisableColorKeying_NoReload
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_EnableCLUT_NoReload
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_DisableCLUT_NoReload
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_GetState
+                0x00000000        0x6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text.HAL_LTDC_GetError
+                0x00000000        0x6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+ .debug_info    0x00000000       0x6b CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+ .debug_str     0x00000000      0x1ce CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x84 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x722 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x180 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0xa0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x90 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x3e9 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x564 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x128 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBkUpReg
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBkUpReg
+                0x00000000       0x38 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x00000000       0xc0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableOverDrive
+                0x00000000       0x78 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnterUnderDriveSTOPMode
+                0x00000000       0x70 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x9c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xcc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x90 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000       0x74 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnablePLLI2S
+                0x00000000       0x70 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisablePLLI2S
+                0x00000000       0x34 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnablePLLSAI
+                0x00000000       0x70 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisablePLLSAI
+                0x00000000       0x34 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000      0x17c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_DMA_XferCpltCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_DMA_XferErrorCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_MspInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_MspDeInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_DeInit
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_Read_8b
+                0x00000000       0x48 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_Write_8b
+                0x00000000       0x4c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_Read_16b
+                0x00000000       0x48 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_Write_16b
+                0x00000000       0x4c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_Read_32b
+                0x00000000       0x46 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_Write_32b
+                0x00000000       0x44 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_Read_DMA
+                0x00000000       0x50 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_Write_DMA
+                0x00000000       0x58 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_WriteProtection_Enable
+                0x00000000       0x26 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_WriteProtection_Disable
+                0x00000000       0x26 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_SendCommand
+                0x00000000       0x36 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_ProgramRefreshRate
+                0x00000000       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_SetAutoRefreshNumber
+                0x00000000       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_GetModeStatus
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text.HAL_SDRAM_GetState
+                0x00000000        0x6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_info    0x00000000       0x6b CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_info    0x00000000       0x6b CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000      0x1cd CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_EndTxTransfer
+                0x00000000       0x12 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_WaitOnFlagUntilTimeout
+                0x00000000       0x6c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_MspInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_Init
+                0x00000000       0x6a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_LIN_Init
+                0x00000000       0x80 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_Init
+                0x00000000       0x8a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_DeInit
+                0x00000000       0x30 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit
+                0x00000000       0xe0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Receive
+                0x00000000       0xea CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_IT
+                0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_IT
+                0x00000000       0x62 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_DMA
+                0x00000000       0x8c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_DMA
+                0x00000000       0xa8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_DMAPause
+                0x00000000       0x70 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_DMAResume
+                0x00000000       0x76 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_DMAStop
+                0x00000000       0x64 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Abort
+                0x00000000       0x94 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit
+                0x00000000       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive
+                0x00000000       0x58 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMATransmitCplt
+                0x00000000       0x30 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_TxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMATxHalfCplt
+                0x00000000        0xa CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMAReceiveCplt
+                0x00000000       0x3e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_RxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMARxHalfCplt
+                0x00000000        0xa CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMAError
+                0x00000000       0x58 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortCpltCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Abort_IT
+                0x00000000       0xc4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMARxAbortCallback
+                0x00000000       0x2a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMATxAbortCallback
+                0x00000000       0x2a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmitCpltCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit_IT
+                0x00000000       0x60 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMATxOnlyAbortCallback
+                0x00000000       0x14 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceiveCpltCallback
+                0x00000000        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive_IT
+                0x00000000       0x68 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMARxOnlyAbortCallback
+                0x00000000       0x14 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_LIN_SendBreak
+                0x00000000       0x32 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_EnterMuteMode
+                0x00000000       0x32 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_ExitMuteMode
+                0x00000000       0x32 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableTransmitter
+                0x00000000       0x36 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableReceiver
+                0x00000000       0x36 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_GetState
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_GetError
+                0x00000000        0x4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NORSRAM_Init
+                0x00000000       0x74 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NORSRAM_DeInit
+                0x00000000       0x34 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NORSRAM_Timing_Init
+                0x00000000       0x5c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NORSRAM_Extended_Timing_Init
+                0x00000000       0x4c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NORSRAM_WriteOperation_Enable
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NORSRAM_WriteOperation_Disable
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NAND_Init
+                0x00000000       0x48 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NAND_CommonSpace_Timing_Init
+                0x00000000       0x30 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NAND_AttributeSpace_Timing_Init
+                0x00000000       0x30 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NAND_DeInit
+                0x00000000       0x40 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NAND_ECC_Enable
+                0x00000000       0x1a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NAND_ECC_Disable
+                0x00000000       0x1a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_NAND_GetECC
+                0x00000000       0x66 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_PCCARD_Init
+                0x00000000       0x26 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_PCCARD_CommonSpace_Timing_Init
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_PCCARD_AttributeSpace_Timing_Init
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_PCCARD_IOSpace_Timing_Init
+                0x00000000       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_PCCARD_DeInit
+                0x00000000       0x1e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_SDRAM_DeInit
+                0x00000000       0x1e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_SDRAM_WriteProtection_Enable
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_SDRAM_WriteProtection_Disable
+                0x00000000       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_SDRAM_SendCommand
+                0x00000000       0x50 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_SDRAM_ProgramRefreshRate
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_SDRAM_SetAutoRefreshNumber
+                0x00000000        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text.FMC_SDRAM_GetModeStatus
+                0x00000000       0x14 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .text          0x00000000       0x14 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00030000         xrw
+CCMRAM           0x10000000         0x00010000         xrw
+FLASH            0x08000000         0x00100000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+LOAD CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+START GROUP
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+                0x20030000                _estack = 0x20030000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x1ac
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1ac CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+                0x08000000                g_pfnVectors
+                0x080001ac                . = ALIGN (0x4)
+
+.text           0x080001ac     0x3cc4
+                0x080001ac                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001ac       0x40 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x080001ec       0x30 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x080001ec                __aeabi_uldivmod
+ .text          0x0800021c      0x2d0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x0800021c                __udivmoddi4
+ .text          0x080004ec        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x080004ec                __aeabi_idiv0
+                0x080004ec                __aeabi_ldiv0
+ *(.text*)
+ .text.MX_DMA2D_Init
+                0x080004f0       0x40 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+                0x080004f0                MX_DMA2D_Init
+ .text.HAL_DMA2D_MspInit
+                0x08000530       0x40 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+                0x08000530                HAL_DMA2D_MspInit
+ .text.HAL_FMC_MspInit
+                0x08000570       0xf8 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .text.MX_FMC_Init
+                0x08000668       0x70 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+                0x08000668                MX_FMC_Init
+ .text.HAL_SDRAM_MspInit
+                0x080006d8        0x8 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+                0x080006d8                HAL_SDRAM_MspInit
+ .text.MX_GPIO_Init
+                0x080006e0      0x194 CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+                0x080006e0                MX_GPIO_Init
+ .text.MX_I2C1_Init
+                0x08000874       0x5c CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+                0x08000874                MX_I2C1_Init
+ .text.MX_I2C2_Init
+                0x080008d0       0x5c CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+                0x080008d0                MX_I2C2_Init
+ .text.HAL_I2C_MspInit
+                0x0800092c       0xec CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+                0x0800092c                HAL_I2C_MspInit
+ .text.MX_LTDC_Init
+                0x08000a18      0x130 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+                0x08000a18                MX_LTDC_Init
+ .text.HAL_LTDC_MspInit
+                0x08000b48      0x204 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+                0x08000b48                HAL_LTDC_MspInit
+ .text.Error_Handler
+                0x08000d4c        0x4 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+                0x08000d4c                Error_Handler
+ .text.SystemClock_Config
+                0x08000d50       0xd4 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+                0x08000d50                SystemClock_Config
+ .text.main     0x08000e24       0x30 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+                0x08000e24                main
+ .text.HAL_MspInit
+                0x08000e54       0x38 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                0x08000e54                HAL_MspInit
+ .text.NMI_Handler
+                0x08000e8c        0x2 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000e8c                NMI_Handler
+ .text.HardFault_Handler
+                0x08000e8e        0x2 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000e8e                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000e90        0x2 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000e90                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000e92        0x2 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000e92                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000e94        0x2 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000e94                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000e96        0x2 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000e96                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000e98        0x2 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000e98                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000e9a        0x2 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000e9a                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000e9c        0x8 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000e9c                SysTick_Handler
+ .text.I2C2_EV_IRQHandler
+                0x08000ea4       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000ea4                I2C2_EV_IRQHandler
+ .text.I2C2_ER_IRQHandler
+                0x08000eb4       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000eb4                I2C2_ER_IRQHandler
+ .text.USART1_IRQHandler
+                0x08000ec4       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000ec4                USART1_IRQHandler
+ .text.USART2_IRQHandler
+                0x08000ed4       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000ed4                USART2_IRQHandler
+ .text.USART3_IRQHandler
+                0x08000ee4       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000ee4                USART3_IRQHandler
+ .text.FMC_IRQHandler
+                0x08000ef4       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000ef4                FMC_IRQHandler
+ .text.LTDC_IRQHandler
+                0x08000f04       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000f04                LTDC_IRQHandler
+ .text.DMA2D_IRQHandler
+                0x08000f14       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000f14                DMA2D_IRQHandler
+ .text.SystemInit
+                0x08000f24       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x08000f24                SystemInit
+ .text.MX_USART1_UART_Init
+                0x08000f34       0x34 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+                0x08000f34                MX_USART1_UART_Init
+ .text.MX_USART2_UART_Init
+                0x08000f68       0x34 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+                0x08000f68                MX_USART2_UART_Init
+ .text.MX_USART3_UART_Init
+                0x08000f9c       0x34 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+                0x08000f9c                MX_USART3_UART_Init
+ .text.HAL_UART_MspInit
+                0x08000fd0      0x148 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+                0x08000fd0                HAL_UART_MspInit
+ .text.HAL_InitTick
+                0x08001118       0x4c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08001118                HAL_InitTick
+ .text.HAL_Init
+                0x08001164       0x34 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08001164                HAL_Init
+ .text.HAL_IncTick
+                0x08001198       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08001198                HAL_IncTick
+ .text.HAL_GetTick
+                0x080011b0        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x080011b0                HAL_GetTick
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x080011bc       0x24 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x080011bc                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x080011e0       0x70 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x080011e0                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x08001250       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08001250                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x0800126c       0x28 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x0800126c                HAL_SYSTICK_Config
+ .text.HAL_DMA_Abort_IT
+                0x08001294       0x26 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x08001294                HAL_DMA_Abort_IT
+ .text.HAL_DMA_GetState
+                0x080012ba        0x6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x080012ba                HAL_DMA_GetState
+ .text.HAL_DMA2D_Init
+                0x080012c0       0x5a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+                0x080012c0                HAL_DMA2D_Init
+ .text.HAL_DMA2D_LineEventCallback
+                0x0800131a        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+                0x0800131a                HAL_DMA2D_LineEventCallback
+ .text.HAL_DMA2D_CLUTLoadingCpltCallback
+                0x0800131c        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+                0x0800131c                HAL_DMA2D_CLUTLoadingCpltCallback
+ .text.HAL_DMA2D_IRQHandler
+                0x0800131e      0x13c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+                0x0800131e                HAL_DMA2D_IRQHandler
+ *fill*         0x0800145a        0x2 
+ .text.HAL_DMA2D_ConfigLayer
+                0x0800145c       0xc4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+                0x0800145c                HAL_DMA2D_ConfigLayer
+ .text.HAL_GPIO_Init
+                0x08001520      0x1e8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x08001520                HAL_GPIO_Init
+ .text.I2C_Master_SB
+                0x08001708       0xa8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_Master_ADD10
+                0x080017b0       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_Master_ADDR
+                0x080017de      0x204 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_SlaveTransmit_BTF
+                0x080019e2       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_SlaveReceive_BTF
+                0x08001a02       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ *fill*         0x08001a22        0x2 
+ .text.I2C_WaitOnSTOPRequestThroughIT
+                0x08001a24       0x48 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_ConvertOtherXferOptions
+                0x08001a6c       0x1e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ *fill*         0x08001a8a        0x2 
+ .text.HAL_I2C_Init
+                0x08001a8c      0x1bc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x08001a8c                HAL_I2C_Init
+ .text.HAL_I2C_MasterTxCpltCallback
+                0x08001c48        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x08001c48                HAL_I2C_MasterTxCpltCallback
+ .text.I2C_MasterTransmit_BTF
+                0x08001c4a       0x86 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_MasterRxCpltCallback
+                0x08001cd0        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x08001cd0                HAL_I2C_MasterRxCpltCallback
+ .text.HAL_I2C_SlaveTxCpltCallback
+                0x08001cd2        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x08001cd2                HAL_I2C_SlaveTxCpltCallback
+ .text.I2C_SlaveTransmit_TXE
+                0x08001cd4       0x4c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_SlaveRxCpltCallback
+                0x08001d20        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x08001d20                HAL_I2C_SlaveRxCpltCallback
+ .text.I2C_SlaveReceive_RXNE
+                0x08001d22       0x4c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_AddrCallback
+                0x08001d6e        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x08001d6e                HAL_I2C_AddrCallback
+ .text.I2C_Slave_ADDR
+                0x08001d70       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_ListenCpltCallback
+                0x08001dbe        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x08001dbe                HAL_I2C_ListenCpltCallback
+ .text.I2C_Slave_AF
+                0x08001dc0       0x94 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_MemTxCpltCallback
+                0x08001e54        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x08001e54                HAL_I2C_MemTxCpltCallback
+ .text.I2C_MemoryTransmit_TXE_BTF
+                0x08001e56       0xb8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_MasterTransmit_TXE
+                0x08001f0e       0xd0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_MemRxCpltCallback
+                0x08001fde        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x08001fde                HAL_I2C_MemRxCpltCallback
+ .text.I2C_MasterReceive_BTF
+                0x08001fe0      0x128 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_ErrorCallback
+                0x08002108        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x08002108                HAL_I2C_ErrorCallback
+ .text.I2C_MasterReceive_RXNE
+                0x0800210a       0xec CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_AbortCpltCallback
+                0x080021f6        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x080021f6                HAL_I2C_AbortCpltCallback
+ .text.I2C_DMAAbort
+                0x080021f8       0xe4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_ITError
+                0x080022dc      0x178 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.I2C_Slave_STOPF
+                0x08002454      0x18c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .text.HAL_I2C_EV_IRQHandler
+                0x080025e0      0x19a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x080025e0                HAL_I2C_EV_IRQHandler
+ .text.HAL_I2C_ER_IRQHandler
+                0x0800277a       0xc4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                0x0800277a                HAL_I2C_ER_IRQHandler
+ .text.HAL_I2CEx_ConfigAnalogFilter
+                0x0800283e       0x44 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+                0x0800283e                HAL_I2CEx_ConfigAnalogFilter
+ .text.HAL_I2CEx_ConfigDigitalFilter
+                0x08002882       0x42 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+                0x08002882                HAL_I2CEx_ConfigDigitalFilter
+ .text.LTDC_SetConfig
+                0x080028c4      0x1b2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ *fill*         0x08002a76        0x2 
+ .text.HAL_LTDC_Init
+                0x08002a78       0xf8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+                0x08002a78                HAL_LTDC_Init
+ .text.HAL_LTDC_ErrorCallback
+                0x08002b70        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+                0x08002b70                HAL_LTDC_ErrorCallback
+ .text.HAL_LTDC_LineEventCallback
+                0x08002b72        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+                0x08002b72                HAL_LTDC_LineEventCallback
+ .text.HAL_LTDC_ReloadEventCallback
+                0x08002b74        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+                0x08002b74                HAL_LTDC_ReloadEventCallback
+ .text.HAL_LTDC_IRQHandler
+                0x08002b76       0xda CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+                0x08002b76                HAL_LTDC_IRQHandler
+ .text.HAL_LTDC_ConfigLayer
+                0x08002c50       0x68 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+                0x08002c50                HAL_LTDC_ConfigLayer
+ .text.HAL_PWREx_EnableOverDrive
+                0x08002cb8       0x7c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+                0x08002cb8                HAL_PWREx_EnableOverDrive
+ .text.HAL_RCC_OscConfig
+                0x08002d34      0x3ec CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08002d34                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08003120       0xa4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08003120                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x080031c4      0x160 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x080031c4                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetHCLKFreq
+                0x08003324        0xc CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08003324                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x08003330       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08003330                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCC_GetPCLK2Freq
+                0x08003350       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08003350                HAL_RCC_GetPCLK2Freq
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x08003370      0x284 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+                0x08003370                HAL_RCCEx_PeriphCLKConfig
+ .text.HAL_SDRAM_Init
+                0x080035f4       0x40 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+                0x080035f4                HAL_SDRAM_Init
+ .text.HAL_SDRAM_RefreshErrorCallback
+                0x08003634        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+                0x08003634                HAL_SDRAM_RefreshErrorCallback
+ .text.HAL_SDRAM_IRQHandler
+                0x08003636       0x20 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+                0x08003636                HAL_SDRAM_IRQHandler
+ .text.UART_EndRxTransfer
+                0x08003656       0x1c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_Transmit_IT
+                0x08003672       0x66 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_SetConfig
+                0x080036d8      0x1d4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Init
+                0x080038ac       0x5e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x080038ac                HAL_UART_Init
+ .text.HAL_UART_TxCpltCallback
+                0x0800390a        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x0800390a                HAL_UART_TxCpltCallback
+ .text.UART_EndTransmit_IT
+                0x0800390c       0x1a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_RxCpltCallback
+                0x08003926        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08003926                HAL_UART_RxCpltCallback
+ .text.UART_Receive_IT
+                0x08003928       0x9e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_ErrorCallback
+                0x080039c6        0x2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x080039c6                HAL_UART_ErrorCallback
+ .text.HAL_UART_IRQHandler
+                0x080039c8      0x128 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x080039c8                HAL_UART_IRQHandler
+ .text.UART_DMAAbortOnError
+                0x08003af0       0x10 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.FMC_SDRAM_Init
+                0x08003b00       0x78 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+                0x08003b00                FMC_SDRAM_Init
+ .text.FMC_SDRAM_Timing_Init
+                0x08003b78       0xbe CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+                0x08003b78                FMC_SDRAM_Timing_Init
+ *fill*         0x08003c36        0x2 
+ .text.Reset_Handler
+                0x08003c38       0x50 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+                0x08003c38                Reset_Handler
+ .text.Default_Handler
+                0x08003c88        0x2 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+                0x08003c88                RTC_Alarm_IRQHandler
+                0x08003c88                HASH_RNG_IRQHandler
+                0x08003c88                EXTI2_IRQHandler
+                0x08003c88                TIM8_CC_IRQHandler
+                0x08003c88                UART8_IRQHandler
+                0x08003c88                SPI4_IRQHandler
+                0x08003c88                TIM1_CC_IRQHandler
+                0x08003c88                DMA2_Stream5_IRQHandler
+                0x08003c88                DMA1_Stream5_IRQHandler
+                0x08003c88                PVD_IRQHandler
+                0x08003c88                SDIO_IRQHandler
+                0x08003c88                TAMP_STAMP_IRQHandler
+                0x08003c88                CAN2_RX1_IRQHandler
+                0x08003c88                EXTI3_IRQHandler
+                0x08003c88                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08003c88                TIM1_UP_TIM10_IRQHandler
+                0x08003c88                TIM8_UP_TIM13_IRQHandler
+                0x08003c88                I2C3_ER_IRQHandler
+                0x08003c88                EXTI0_IRQHandler
+                0x08003c88                DMA1_Stream2_IRQHandler
+                0x08003c88                CAN1_RX0_IRQHandler
+                0x08003c88                FPU_IRQHandler
+                0x08003c88                OTG_HS_WKUP_IRQHandler
+                0x08003c88                LTDC_ER_IRQHandler
+                0x08003c88                CAN2_SCE_IRQHandler
+                0x08003c88                DMA2_Stream2_IRQHandler
+                0x08003c88                SPI1_IRQHandler
+                0x08003c88                TIM6_DAC_IRQHandler
+                0x08003c88                TIM1_BRK_TIM9_IRQHandler
+                0x08003c88                DCMI_IRQHandler
+                0x08003c88                CAN2_RX0_IRQHandler
+                0x08003c88                DMA2_Stream3_IRQHandler
+                0x08003c88                USART6_IRQHandler
+                0x08003c88                CAN1_RX1_IRQHandler
+                0x08003c88                UART5_IRQHandler
+                0x08003c88                DMA2_Stream0_IRQHandler
+                0x08003c88                TIM4_IRQHandler
+                0x08003c88                I2C1_EV_IRQHandler
+                0x08003c88                DMA1_Stream6_IRQHandler
+                0x08003c88                DMA1_Stream1_IRQHandler
+                0x08003c88                UART4_IRQHandler
+                0x08003c88                TIM3_IRQHandler
+                0x08003c88                RCC_IRQHandler
+                0x08003c88                TIM8_BRK_TIM12_IRQHandler
+                0x08003c88                Default_Handler
+                0x08003c88                EXTI15_10_IRQHandler
+                0x08003c88                ADC_IRQHandler
+                0x08003c88                DMA1_Stream7_IRQHandler
+                0x08003c88                SPI5_IRQHandler
+                0x08003c88                TIM7_IRQHandler
+                0x08003c88                CAN2_TX_IRQHandler
+                0x08003c88                TIM5_IRQHandler
+                0x08003c88                DMA2_Stream7_IRQHandler
+                0x08003c88                I2C3_EV_IRQHandler
+                0x08003c88                EXTI9_5_IRQHandler
+                0x08003c88                RTC_WKUP_IRQHandler
+                0x08003c88                ETH_WKUP_IRQHandler
+                0x08003c88                SPI2_IRQHandler
+                0x08003c88                OTG_HS_EP1_IN_IRQHandler
+                0x08003c88                DMA1_Stream0_IRQHandler
+                0x08003c88                CAN1_TX_IRQHandler
+                0x08003c88                EXTI4_IRQHandler
+                0x08003c88                ETH_IRQHandler
+                0x08003c88                OTG_HS_EP1_OUT_IRQHandler
+                0x08003c88                WWDG_IRQHandler
+                0x08003c88                SPI6_IRQHandler
+                0x08003c88                TIM2_IRQHandler
+                0x08003c88                OTG_FS_WKUP_IRQHandler
+                0x08003c88                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08003c88                OTG_HS_IRQHandler
+                0x08003c88                EXTI1_IRQHandler
+                0x08003c88                UART7_IRQHandler
+                0x08003c88                DMA2_Stream1_IRQHandler
+                0x08003c88                CAN1_SCE_IRQHandler
+                0x08003c88                FLASH_IRQHandler
+                0x08003c88                DMA2_Stream4_IRQHandler
+                0x08003c88                OTG_FS_IRQHandler
+                0x08003c88                SPI3_IRQHandler
+                0x08003c88                DMA1_Stream4_IRQHandler
+                0x08003c88                I2C1_ER_IRQHandler
+                0x08003c88                DMA2_Stream6_IRQHandler
+                0x08003c88                SAI1_IRQHandler
+                0x08003c88                DMA1_Stream3_IRQHandler
+ *fill*         0x08003c8a        0x2 
+ .text.__libc_init_array
+                0x08003c8c       0x48 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+                0x08003c8c                __libc_init_array
+ .text.memset   0x08003cd4       0xa4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+                0x08003cd4                memset
+ .text.startup.register_fini
+                0x08003d78       0x14 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08003d8c        0xc f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+                0x08003d8c                atexit
+ .text.__libc_fini_array
+                0x08003d98       0x2c f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+                0x08003d98                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08003dc4        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08003dc4                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08003dc8        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08003dc8                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08003dcc       0x8c f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+                0x08003dcc                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08003e58        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08003e58        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08003e58        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08003e58        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+                0x08003e58                _init
+ .init          0x08003e5c        0x8 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08003e64        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+                0x08003e64                _fini
+ .fini          0x08003e68        0x8 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+                0x08003e70                . = ALIGN (0x4)
+                0x08003e70                _etext = .
+
+.vfp11_veneer   0x08003e70        0x0
+ .vfp11_veneer  0x08003e70        0x0 linker stubs
+
+.v4_bx          0x08003e70        0x0
+ .v4_bx         0x08003e70        0x0 linker stubs
+
+.iplt           0x08003e70        0x0
+ .iplt          0x08003e70        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x08003e70       0x1c
+                0x08003e70                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x08003e70       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x08003e70                AHBPrescTable
+ .rodata.APBPrescTable
+                0x08003e80        0x8 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x08003e80                APBPrescTable
+ .rodata._global_impure_ptr
+                0x08003e88        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                0x08003e88                _global_impure_ptr
+                0x08003e8c                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08003e8c        0x8
+                0x08003e8c                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x08003e8c        0x8 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x08003e94                __exidx_end = .
+
+.rel.dyn        0x08003e94        0x0
+ .rel.iplt      0x08003e94        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.preinit_array  0x08003e94        0x0
+                0x08003e94                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08003e94                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08003e94        0x8
+                0x08003e94                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08003e94        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08003e98        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08003e9c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08003e9c        0x4
+                0x08003e9c                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08003e9c        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08003ea0                PROVIDE (__fini_array_end = .)
+                0x08003ea0                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x43c load address 0x08003ea0
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x20000000                SystemCoreClock
+ .data.uwTickFreq
+                0x20000004        0x1 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000004                uwTickFreq
+ *fill*         0x20000005        0x3 
+ .data.uwTickPrio
+                0x20000008        0x4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000008                uwTickPrio
+ *fill*         0x2000000c        0x4 
+ .data.impure_data
+                0x20000010      0x428 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000438        0x4 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000438                __atexit_recursive_mutex
+                0x2000043c                . = ALIGN (0x4)
+                0x2000043c                _edata = .
+                0x080042dc                _siccmram = LOADADDR (.ccmram)
+
+.igot.plt       0x2000043c        0x0 load address 0x080042dc
+ .igot.plt      0x2000043c        0x0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ccmram         0x10000000        0x0 load address 0x080042dc
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _sccmram = .
+ *(.ccmram)
+ *(.ccmram*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _eccmram = .
+                0x10000000                . = ALIGN (0x4)
+
+.bss            0x2000043c      0x2ac
+                0x2000043c                _sbss = .
+                0x2000043c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000043c       0x1c f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.hdma2d    0x20000458       0x40 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+                0x20000458                hdma2d
+ .bss.FMC_Initialized
+                0x20000498        0x4 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .bss.hsdram2   0x2000049c       0x34 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+                0x2000049c                hsdram2
+ .bss.hi2c1     0x200004d0       0x54 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+                0x200004d0                hi2c1
+ .bss.hi2c2     0x20000524       0x54 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+                0x20000524                hi2c2
+ .bss.hltdc     0x20000578       0xa8 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+                0x20000578                hltdc
+ .bss.huart1    0x20000620       0x40 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+                0x20000620                huart1
+ .bss.huart2    0x20000660       0x40 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+                0x20000660                huart2
+ .bss.huart3    0x200006a0       0x40 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+                0x200006a0                huart3
+ .bss.uwTick    0x200006e0        0x4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x200006e0                uwTick
+ .bss.__lock___atexit_recursive_mutex
+                0x200006e4        0x1 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x200006e4                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x200006e8                . = ALIGN (0x4)
+ *fill*         0x200006e5        0x3 
+                0x200006e8                _ebss = .
+                0x200006e8                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200006e8      0x600
+                0x200006e8                . = ALIGN (0x8)
+                0x200006e8                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x200008e8                . = (. + _Min_Heap_Size)
+ *fill*         0x200006e8      0x200 
+                0x20000ce8                . = (. + _Min_Stack_Size)
+ *fill*         0x200008e8      0x400 
+                0x20000ce8                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .ARM.attributes
+                0x0000007a       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .ARM.attributes
+                0x000000a8       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .ARM.attributes
+                0x000000d6       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .ARM.attributes
+                0x00000104       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .ARM.attributes
+                0x00000132       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x00000160       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .ARM.attributes
+                0x0000018e       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .ARM.attributes
+                0x000001bc       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .ARM.attributes
+                0x000001ea       0x2e CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .ARM.attributes
+                0x00000218       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .ARM.attributes
+                0x00000246       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000274       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .ARM.attributes
+                0x000002a2       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .ARM.attributes
+                0x000002d0       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x000002fe       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .ARM.attributes
+                0x0000032c       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .ARM.attributes
+                0x0000035a       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .ARM.attributes
+                0x00000388       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x000003b6       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x000003e4       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000412       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .ARM.attributes
+                0x00000440       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .ARM.attributes
+                0x0000046e       0x2e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .ARM.attributes
+                0x0000049c       0x21 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+ .ARM.attributes
+                0x000004bd       0x1e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000004db       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000509       0x1e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000527       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000555       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000583       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000005b1       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000005df       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000060d       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000063b       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000669       0x2e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000697       0x1e f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(babyxc.elf elf32-littlearm)
+LOAD linker stubs
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+LOAD f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a
+
+.debug_info     0x00000000    0x156d5
+ .debug_info    0x00000000      0x995 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .debug_info    0x00000995      0xe09 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .debug_info    0x0000179e      0x5cb CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00001d69      0xf15 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .debug_info    0x00002c7e      0xf5a CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .debug_info    0x00003bd8      0x7bc CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00004394      0x2c0 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_info    0x00004654     0x12be CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_info    0x00005912      0x554 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_info    0x00005e66      0xea5 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .debug_info    0x00006d0b      0xa68 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_info    0x00007773     0x10ce CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_info    0x00008841      0xb3f CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_info    0x00009380     0x12e6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .debug_info    0x0000a666      0x7b7 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_info    0x0000ae1d     0x391f CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .debug_info    0x0000e73c      0x6cb CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .debug_info    0x0000ee07     0x1548 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .debug_info    0x0001034f      0x7bb CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_info    0x00010b0a      0xb1f CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_info    0x00011629      0x81f CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_info    0x00011e48      0xf16 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .debug_info    0x00012d5e     0x1906 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_info    0x00014664     0x104f CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .debug_info    0x000156b3       0x22 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+
+.debug_abbrev   0x00000000     0x2eb5
+ .debug_abbrev  0x00000000      0x1e4 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .debug_abbrev  0x000001e4      0x226 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .debug_abbrev  0x0000040a      0x132 CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x0000053c      0x1dc CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .debug_abbrev  0x00000718      0x1c5 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .debug_abbrev  0x000008dd      0x1b7 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x00000a94       0xd1 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_abbrev  0x00000b65      0x1c6 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_abbrev  0x00000d2b      0x119 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_abbrev  0x00000e44      0x1dc CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x00001020      0x206 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_abbrev  0x00001226      0x36a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_abbrev  0x00001590      0x2c2 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_abbrev  0x00001852      0x259 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .debug_abbrev  0x00001aab      0x1ef CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_abbrev  0x00001c9a      0x27f CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .debug_abbrev  0x00001f19      0x14f CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .debug_abbrev  0x00002068      0x219 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .debug_abbrev  0x00002281      0x1c0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x00002441      0x28a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_abbrev  0x000026cb      0x180 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x0000284b      0x227 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .debug_abbrev  0x00002a72      0x274 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_abbrev  0x00002ce6      0x1bd CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .debug_abbrev  0x00002ea3       0x12 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+
+.debug_loc      0x00000000     0xc812
+ .debug_loc     0x00000000       0x67 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .debug_loc     0x00000067       0x4a CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .debug_loc     0x000000b1       0xbe CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .debug_loc     0x0000016f       0x84 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .debug_loc     0x000001f3      0x158 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_loc     0x0000034b       0xf8 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .debug_loc     0x00000443      0x141 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_loc     0x00000584      0x744 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_loc     0x00000cc8      0xbf9 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_loc     0x000018c1     0x134d CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .debug_loc     0x00002c0e      0x4ff CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_loc     0x0000310d     0x3f8e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .debug_loc     0x0000709b       0xfe CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .debug_loc     0x00007199     0x18e3 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .debug_loc     0x00008a7c      0x228 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_loc     0x00008ca4      0x58c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_loc     0x00009230      0x4d6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_loc     0x00009706      0xbd8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .debug_loc     0x0000a2de     0x18b6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_loc     0x0000bb94      0xc7e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+
+.debug_aranges  0x00000000      0xf10
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .debug_aranges
+                0x00000030       0x40 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .debug_aranges
+                0x00000070       0x20 CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .debug_aranges
+                0x00000090       0x38 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .debug_aranges
+                0x000000c8       0x30 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .debug_aranges
+                0x000000f8       0x30 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x00000128       0x20 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_aranges
+                0x00000148       0xa0 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_aranges
+                0x000001e8       0x28 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_aranges
+                0x00000210       0x40 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .debug_aranges
+                0x00000250      0x100 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_aranges
+                0x00000350       0xa8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_aranges
+                0x000003f8       0x90 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000488      0x118 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .debug_aranges
+                0x000005a0       0x58 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_aranges
+                0x000005f8      0x2a0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .debug_aranges
+                0x00000898       0x28 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .debug_aranges
+                0x000008c0      0x158 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .debug_aranges
+                0x00000a18       0x60 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_aranges
+                0x00000a78       0x88 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000b00       0x58 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000b58       0xd0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .debug_aranges
+                0x00000c28      0x1d0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_aranges
+                0x00000df8       0xf0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .debug_aranges
+                0x00000ee8       0x28 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+
+.debug_ranges   0x00000000      0xe18
+ .debug_ranges  0x00000000       0x20 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .debug_ranges  0x00000020       0x30 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .debug_ranges  0x00000050       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .debug_ranges  0x00000060       0x28 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .debug_ranges  0x00000088       0x20 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .debug_ranges  0x000000a8       0x20 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x000000c8       0x10 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_ranges  0x000000d8       0x90 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_ranges  0x00000168       0x18 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_ranges  0x00000180       0x30 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .debug_ranges  0x000001b0       0xf0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_ranges  0x000002a0       0xf8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_ranges  0x00000398       0x80 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_ranges  0x00000418      0x108 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .debug_ranges  0x00000520       0x48 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_ranges  0x00000568      0x2a8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .debug_ranges  0x00000810       0x18 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .debug_ranges  0x00000828      0x148 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .debug_ranges  0x00000970       0x50 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_ranges  0x000009c0       0x90 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_ranges  0x00000a50       0x48 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000a98       0xc0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .debug_ranges  0x00000b58      0x1c0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_ranges  0x00000d18       0xe0 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .debug_ranges  0x00000df8       0x20 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+
+.debug_line     0x00000000    0x10dff
+ .debug_line    0x00000000      0x29a CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .debug_line    0x0000029a      0x468 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .debug_line    0x00000702      0x290 CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00000992      0x415 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .debug_line    0x00000da7      0x5f1 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .debug_line    0x00001398      0x3c1 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00001759      0x145 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x0000189e      0x3f4 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_line    0x00001c92      0x24e CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_line    0x00001ee0      0x465 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .debug_line    0x00002345      0x5af CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_line    0x000028f4      0x78a CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_line    0x0000307e      0xe01 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_line    0x00003e7f     0x11e1 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .debug_line    0x00005060      0x6ef CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_line    0x0000574f     0x5129 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .debug_line    0x0000a878      0x27b CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .debug_line    0x0000aaf3     0x1916 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .debug_line    0x0000c409      0x4c4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000c8cd      0xb0f CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_line    0x0000d3dc      0x827 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000dc03      0x94f CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .debug_line    0x0000e552     0x1c28 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_line    0x0001017a      0xbf6 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .debug_line    0x00010d70       0x8f CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+
+.debug_str      0x00000000     0x4c81
+ .debug_str     0x00000000      0xa99 CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+                                0xb35 (size before relaxing)
+ .debug_str     0x00000a99      0x522 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+                                0xe3e (size before relaxing)
+ .debug_str     0x00000fbb       0x31 CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+                                0x36b (size before relaxing)
+ .debug_str     0x00000fec      0x322 CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+                                0xea6 (size before relaxing)
+ .debug_str     0x0000130e      0x2e5 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+                                0xc70 (size before relaxing)
+ .debug_str     0x000015f3      0x2e5 CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+                                0x64a (size before relaxing)
+ .debug_str     0x000018d8       0x3d CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                                0x2e8 (size before relaxing)
+ .debug_str     0x00001915      0x355 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                                0xff4 (size before relaxing)
+ .debug_str     0x00001c6a       0xec CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                                0x3a2 (size before relaxing)
+ .debug_str     0x00001d56       0x62 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+                                0xdc8 (size before relaxing)
+ .debug_str     0x00001db8      0x3ad CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                                0xc26 (size before relaxing)
+ .debug_str     0x00002165      0x441 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                                0xcaa (size before relaxing)
+ .debug_str     0x000025a6      0x320 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                                0x790 (size before relaxing)
+ .debug_str     0x000028c6      0x364 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+                                0x944 (size before relaxing)
+ .debug_str     0x00002c2a      0x15e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                                0x50d (size before relaxing)
+ .debug_str     0x00002d88      0x880 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+                               0x104f (size before relaxing)
+ .debug_str     0x00003608       0x4c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+                                0x771 (size before relaxing)
+ .debug_str     0x00003654      0x485 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+                                0x9cc (size before relaxing)
+ .debug_str     0x00003ad9      0x14f CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+                                0x4f8 (size before relaxing)
+ .debug_str     0x00003c28      0x195 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                                0x733 (size before relaxing)
+ .debug_str     0x00003dbd      0x13c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+                                0x59d (size before relaxing)
+ .debug_str     0x00003ef9      0x380 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+                                0xa60 (size before relaxing)
+ .debug_str     0x00004279      0x4f9 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                                0xc4c (size before relaxing)
+ .debug_str     0x00004772      0x4cf CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+                                0x9c7 (size before relaxing)
+ .debug_str     0x00004c41       0x40 CMakeFiles/babyxc.elf.dir/startup/startup_stm32f429xx.s.obj
+                                 0x6c (size before relaxing)
+
+.comment        0x00000000       0x4d
+ .comment       0x00000000       0x4d CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+                                 0x4e (size before relaxing)
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+
+.debug_frame    0x00000000     0x29a8
+ .debug_frame   0x00000000       0x5c CMakeFiles/babyxc.elf.dir/Core/Src/dma2d.c.obj
+ .debug_frame   0x0000005c       0xa0 CMakeFiles/babyxc.elf.dir/Core/Src/fmc.c.obj
+ .debug_frame   0x000000fc       0x30 CMakeFiles/babyxc.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x0000012c       0x7c CMakeFiles/babyxc.elf.dir/Core/Src/i2c.c.obj
+ .debug_frame   0x000001a8       0x74 CMakeFiles/babyxc.elf.dir/Core/Src/ltdc.c.obj
+ .debug_frame   0x0000021c       0x5c CMakeFiles/babyxc.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000278       0x28 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_frame   0x000002a0      0x168 CMakeFiles/babyxc.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_frame   0x00000408       0x30 CMakeFiles/babyxc.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_frame   0x00000438       0x90 CMakeFiles/babyxc.elf.dir/Core/Src/usart.c.obj
+ .debug_frame   0x000004c8      0x20c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_frame   0x000006d4      0x148 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_frame   0x0000081c      0x188 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_frame   0x000009a4      0x340 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c.obj
+ .debug_frame   0x00000ce4       0xd8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_frame   0x00000dbc      0x968 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .debug_frame   0x00001724       0x30 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .debug_frame   0x00001754      0x398 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c.obj
+ .debug_frame   0x00001aec       0xf4 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_frame   0x00001be0      0x16c CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_frame   0x00001d4c       0xd8 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00001e24      0x214 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c.obj
+ .debug_frame   0x00002038      0x4ec CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_frame   0x00002524      0x238 CMakeFiles/babyxc.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c.obj
+ .debug_frame   0x0000275c       0x2c f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00002788       0x34 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x000027bc       0x2c f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x000027e8       0x2c f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00002814       0x5c f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00002870       0x20 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00002890       0x34 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x000028c4       0xb0 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x00002974       0x34 f:/10 2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
